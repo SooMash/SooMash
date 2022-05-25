@@ -7,11 +7,9 @@
 
 PS - contributions to private repositories using company-affiliated Git account (as of Feb 2022):
 
-2021
-![image](https://user-images.githubusercontent.com/100480504/155885794-179d05b4-03d8-45b2-834c-28eefb2b0ca5.png)
+June 2021 - June 2022
+![image](https://user-images.githubusercontent.com/100480504/170197116-01839811-db36-4c19-9300-de7a3a34c6c0.png)
 
-2022
-![image](https://user-images.githubusercontent.com/100480504/155885804-8aa4ebfc-2428-4261-a8c0-8073b80dd141.png)
 
 <!---
 SooMash/SooMash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
