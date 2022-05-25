@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   sigavjones@gmail.com OR check out my profile on [LinkedIn](https://www.linkedin.com/in/simon-jones-b887a0129)
 
-PS - contributions to private repositories using company-affiliated Git account (as of Feb 2022):
+PS - contributions to private repositories using company-affiliated Git account (as of June 2022):
 
 June 2021 - June 2022
 ![image](https://user-images.githubusercontent.com/100480504/170197116-01839811-db36-4c19-9300-de7a3a34c6c0.png)
