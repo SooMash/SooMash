@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SooMash, a 26 year old frontend software engineer. A Mechanical Engineer by training, and made the switch to software developement in the venture-building space mid-2021, and haven't looked back!
-- 👀 I’m interested in frontend development, but one day I aim to be truly full stack. In my professional capacity I've worked with JavaScript, TypeScript, React.js,  Vue.js, CSS, HTML, SASS, Bootstrap, Tailwind, Redux, Axios
+- 👀 I’m currently focusing on frontend development, but one day I aim to be truly full stack.
+- 👷‍♂️ In my professional capacity I've worked with JavaScript, TypeScript, React.js,  Vue.js, CSS, HTML, SASS, Bootstrap, Tailwind, Redux, Axios, and more.
 - 🌱 I’m currently learning React Native in my free time by building a fully fledged android mobile application using Android Studio and Expo, and in the meanwhile I am learning about product management & product strategy through my current employment environment.
 - 💞️ I’m passionate about renewable energy and the power technology can have to accelarate the transition from non-renewables.
 - 📫 How to reach me:
