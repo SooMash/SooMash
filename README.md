@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SooMash, a 26 year old frontend software engineer. A Mechanical Engineer by training, and made the switch to software developement in the venture-building space mid-2021, and haven't looked back!
+- 👋 Hi, I’m @SooMash, a 26 year old intermediate frontend software engineer. A Mechanical Engineer by training, and made the switch to software developement in the venture-building space mid-2021, and haven't looked back!
 - 👀 I’m currently focusing on frontend development, but one day I aim to be truly full stack.
-- 👷‍♂️ In my professional capacity I've worked with JavaScript, TypeScript, React.js,  Vue.js, CSS, HTML, SASS, Bootstrap, Tailwind, Redux, Axios, and more.
-- 🌱 I’m currently learning React Native in my free time by building a fully fledged android mobile application using Android Studio and Expo, and in the meanwhile I am learning about product management & product strategy through my current employment environment.
-- 💞️ I’m passionate about renewable energy and the power technology can have to accelarate the transition from non-renewables.
+- 👷‍♂️ In my professional capacity I've worked with JavaScript, TypeScript, React.js,  Vue.js, CSS, HTML, SASS, Bootstrap, Tailwind, Redux, Axios, Unit tests, SonarLint code quality assessments, GitHub Actions and more.
+- 🌱 I’m currently learning 1) React Native in my free time by building a fully fledged android mobile application using Android Studio and Expo, 2) the basics behind backend development, database management, API setup & architecture, 3) and all the while I am engaging in about product management & product strategy learnings in the context my current employment environment's access to countless innovative startups & products.
+- 💞️ I’m VERY passionate about renewable energy and the power technology can have to accelarate the transition from non-renewables.
 - 📫 How to reach me:
   sigavjones@gmail.com OR check out my profile on [LinkedIn](https://www.linkedin.com/in/simon-jones-b887a0129)
 
